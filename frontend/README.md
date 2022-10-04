@@ -23,4 +23,4 @@ This is the project's frontend component. To join the whitelist, users require a
 
 ` npm start`
 
-Check out the [smart-contract](https://github.com/kumancev/nft-whitelist/smart-contracts) branch for the smart part of this project. (Built and deployed with Solidity and Hardhat)
+Check out the [smart-contract](https://github.com/kumancev/nft-whitelist/tree/main/smart-contracts) branch for the smart part of this project. (Built and deployed with Solidity and Hardhat)
